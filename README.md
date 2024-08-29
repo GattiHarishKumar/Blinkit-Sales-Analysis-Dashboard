@@ -12,5 +12,6 @@ Outlet Type Analysis: The dashboard provides a detailed comparison of different 
 Interactive Filter Panel: Users can dynamically filter the data by outlet location type, outlet size, and item type, allowing for a tailored view of the sales data.  
 
 Project Highlights: 
-Comprehensive Analysis: The dashboard integrates multiple data points to provide a 360-degree view of Blinkit's sales performance. User-Friendly Interface: The intuitive layout and filter options enhance the user experience, making it easy to navigate and extract valuable insights. 
+Comprehensive Analysis: The dashboard integrates multiple data points to provide a 360-degree view of Blinkit's sales performance. 
+User-Friendly Interface: The intuitive layout and filter options enhance the user experience, making it easy to navigate and extract valuable insights. 
 Business Insights: By analyzing sales across different dimensions like item type, outlet size, and location, the dashboard helps in identifying key growth areas and potential opportunities for Blinkit.
